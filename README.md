@@ -1,6 +1,8 @@
 # 🍌 Nano Banana — Ecossistema Criativo
 
-Plataforma de inteligência artificial desenvolvida com Python, FastAPI e Next.js, reunindo ferramentas criativas e recursos de gerenciamento em uma interface web.
+Projeto pessoal desenvolvido com Python, FastAPI, Next.js, React e TypeScript. Reúne uma interface web para ferramentas criativas, estúdio gráfico, gerenciamento de clientes, cardápio e pedidos de pizzaria.
+
+O projeto está em desenvolvimento contínuo. A integração com inteligência artificial foi testada, mas não faz parte das funcionalidades atualmente garantidas.
 
 ## 🚀 Tecnologias
 
@@ -13,8 +15,8 @@ Plataforma de inteligência artificial desenvolvida com Python, FastAPI e Next.j
 
 ## 🧠 Funcionalidades
 
-- Chat com inteligência artificial
-- Estúdio gráfico para geração de imagens
+- Interface de chat experimental
+- Estúdio gráfico
 - Histórico de imagens
 - Dashboard
 - Cadastro de clientes
@@ -55,4 +57,4 @@ Para iniciar o projeto, confira as dependências e as instruções do script `in
 Projeto em desenvolvimento contínuo.
 
 ---
-Desenvolvido como projeto pessoal de tecnologia e inteligência artificial.
+Desenvolvido como projeto pessoal de desenvolvimento web.
